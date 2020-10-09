@@ -1,3 +1,9 @@
 {
-  "python.pythonPath": "c:\\Users\\alexandre\\Projetos\\profiles-rest-api\\.venv\\Scripts\\python.exe"
+  "python.pythonPath": "c:\\Users\\alexandre\\Projetos\\profiles-rest-api\\.venv\\Scripts\\python.exe",
+  "python.testing.pytestArgs": [
+    "."
+  ],
+  "python.testing.unittestEnabled": false,
+  "python.testing.nosetestsEnabled": false,
+  "python.testing.pytestEnabled": true
 }
